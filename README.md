@@ -15,16 +15,17 @@ This is a simple **Java console application** that calculates the **Least Common
 
 ## 🖥️ How to Run
 
-1. **Compile the program** using your terminal:
-   ```bash
+### Compile the program
+Using your terminal:
+   ```
    javac LCMRecursion.java
    ```
-2. **Run the program** 
-   ```bash
+### Run the program
+   ```
 java LCMRecursion
   ```
-3. **Follow the prompts:**
-```bash
+### Follow the prompts:
+```
 yaml
 Copy
 Edit
