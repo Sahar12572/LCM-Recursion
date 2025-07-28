@@ -30,3 +30,5 @@ Enter the first number: 12
 Enter the second number: 18
 The LCM of 12 and 18 is: 36
 ```
+## 🛠️ Author
+Made with Java and caffeine by Sahar the Superstar ☕
