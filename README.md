@@ -26,9 +26,6 @@ java LCMRecursion
   ```
 ### Follow the prompts:
 ```
-yaml
-Copy
-Edit
 Enter the first number: 12
 Enter the second number: 18
 The LCM of 12 and 18 is: 36
